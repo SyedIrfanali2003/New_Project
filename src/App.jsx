@@ -30,7 +30,9 @@ return(
 function CounterDisplay({ count }){
 return <h2>Count: {count}</h2>
 }
-
+function Counts(params) {
+  return <h1>Demo</h1>
+}
 
 function App(){
 
