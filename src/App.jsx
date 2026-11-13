@@ -27,6 +27,14 @@ return(
 
 }
 
+function syed() {
+  return(
+    <div>
+      <h1>Syed Code</h1>
+    </div>
+  )
+}
+
 function CounterDisplay({ count }){
 return <h2>Count: {count}</h2>
 }
