@@ -14,10 +14,18 @@ function reducer(state, action){
   }
 
 }
+
 function Vinothini() {
   return(
     <div>
       <h2>Vinothini Code</h2>
+      </div>
+}
+
+function Alagappan() {
+  return(
+    <div>
+      <h1>Alagappan Code</h1>
     </div>
   )
 }
