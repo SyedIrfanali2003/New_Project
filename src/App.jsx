@@ -14,6 +14,14 @@ function reducer(state, action){
   }
 
 }
+function Alagappan() {
+  return(
+    <div>
+      <h1>Alagappan Code</h1>
+    </div>
+  )
+}
+
 function CounterButton({ dispatch}){
 
 return(
