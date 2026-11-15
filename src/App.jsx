@@ -20,6 +20,7 @@ function Vinothini() {
     <div>
       <h2>Vinothini Code</h2>
       </div>
+  )
 }
 
 function Alagappan() {
@@ -50,6 +51,16 @@ function syed() {
     </div>
   )
 }
+
+function Demo() {
+  return(
+    <div>
+      <h1>Demo Code</h1>
+    </div>
+  )
+}
+
+
 
 function CounterDisplay({ count }){
 return <h2>Count: {count}</h2>
